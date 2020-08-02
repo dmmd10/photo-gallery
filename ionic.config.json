@@ -1,0 +1,9 @@
+{
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "30334b32"
+}
